@@ -3,26 +3,10 @@
 Hi, I am **Ashutosh Rana**  
 I am learning Web Development and building real projects.
 
----
-
-# 📌 Project 1 – Landing Page
-
-## 🔹 Description
-This is a responsive landing page project for practice.
-
-
-## 🛠 Technologies Used
-- HTML5
-- CSS3
-
-## 🌐 Live Demo
-<a href="http://127.0.0.1:5500/index.html" target="_blank">
-  👉 View Project 1
-</a>
 
 ---
 
-# 📌 Project 2 –Nike shoes
+# 📌 Project  –Nike shoes
 
 ## 🔹 Description
 A Nike slideshow website built with HTML, CSS, and JavaScript where the background changes dynamically on button click using DOM manipulation
@@ -34,7 +18,7 @@ A Nike slideshow website built with HTML, CSS, and JavaScript where the backgrou
 
 ## 🌐 Live Demo
 <a href="http://127.0.0.1:5500/index.html" target="_blank">
-  👉 View Project 2
+  👉 View Project 
 </a>
 
 ---
